@@ -8,12 +8,16 @@ Python Backend Developer
 
 I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majoring in Computer Engineering and I love coding!
 
-*   🌍  I'm based in Warsaw, Poland
-*   🖥️  See my portfolio at [My Website](http://izzat-karimov.super.site/)
-*   ✉️  You can contact me at [izzatcodes@gmail.com](mailto:izzatcodes@gmail.com)
-*   🧠  I'm learning Django
-*   🤝  I'm open to collaborating on Open Source Projects
-*   ⚡  Need for Speed Most Wanted is the best video game of all time!### Skills 
+* 🌍  I'm based in Warsaw, Poland
+* 🖥️  See my portfolio at [My Website](http://izzat-karimov.super.site/)
+* ✉️  You can contact me at [izzatcodes@gmail.com](mailto:izzatcodes@gmail.com)
+* 🧠  I'm learning Django
+* 🤝  I'm open to collaborating on Open Source Projects
+* ⚡  Need for Speed Most Wanted is the best video game of all time!
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,17 +32,18 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/izzatkarimov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/izzat-karimov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/izzatkarimo22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/izzatkarimov"><img src="https://github-readme-stats.vercel.app/api?username=izzatkarimov&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="izzatkarimov's GitHub stats" /></a><a
-                      href="http://www.github.com/izzatkarimov"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=izzatkarimov&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/izzatkarimov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatkarimov&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/izzatkarimov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/izzat-karimov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/izzatkarimo22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/izzatkarimov"><img src="https://github-readme-stats.vercel.app/api?username=izzatkarimov&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="izzatkarimov's GitHub stats" /></a>
+
+<a href="http://www.github.com/izzatkarimov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=izzatkarimov&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/izzatkarimov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatkarimov&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

@@ -8,7 +8,7 @@ I'm Izzat and welcome to my Github profile!
 Python Backend Developer
 ------------------------
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>">
 
 I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majoring in Computer Engineering and I love coding!
 

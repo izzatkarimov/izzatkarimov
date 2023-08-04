@@ -4,7 +4,6 @@
 Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I'm Izzat and welcome to my Github profile!
 =============================================================================================================================
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58F71F&width=435&lines=I'm+a+Software+Engineer" alt="Typing SVG" /></a>
 ------------------------
 

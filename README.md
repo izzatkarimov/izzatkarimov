@@ -4,11 +4,12 @@
 Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I'm Izzat and welcome to my Github profile!
 =============================================================================================================================
+![Uploading giphy.gif…]()
 
 Python Backend Developer
 ------------------------
 
-<img align="right" alt="Coding" width="400" src="<iframe src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img align="right" alt="Coding" width="400" src="<iframe src="">
 
 I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majoring in Computer Engineering and I love coding!
 

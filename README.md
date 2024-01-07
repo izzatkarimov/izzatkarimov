@@ -11,12 +11,11 @@
 I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majoring in Computer Engineering and I love coding!
 
 * 🌍  I'm based in Warsaw, Poland
-* 🖥️  See my portfolio at [My Website](http://izzat-karimov.super.site/)
 * ✉️  You can contact me at [izzatcodes@gmail.com](mailto:izzatcodes@gmail.com)
-* 🚀  I'm currently working on [Passions Projects](http://https://izzat-karimov.super.site/)
-* 🧠  I'm learning Django
+* 🚀  I'm currently working on Side Projects
+* 🧠  I'm learning GoLang & C++
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Need for Speed Most Wanted is the best video game of all time!
+* ⚡  Light mode attracts bugs :)
 
 ### Skills
 

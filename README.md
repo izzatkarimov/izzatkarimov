@@ -12,7 +12,7 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 * 🚀  I'm currently working on Side Projects
 * 🧠  I'm learning GoLang & C++
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Light mode attracts bugs :)
+* ⚡  Grinding to level up in this game we call life.
 
 ### Skills
 

@@ -1,7 +1,6 @@
 <h2 align="center">Hello World 👋</h1>
-<h2 align="center">I'm Izzat and welcome to my Github profile</h3>
+<h2 align="center">I'm Izzat and I'm a Backend Developer</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I'm+a+Backend+Developer" alt="Typing SVG" /></a>
 ------------------------
 
 

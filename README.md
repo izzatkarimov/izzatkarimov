@@ -9,9 +9,9 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [izzatcodes@gmail.com](mailto:izzatcodes@gmail.com)
 * 🚀  I'm currently working on Side Projects
-* 🧠  I'm learning GoLang & C++
-* 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Grinding to level up in this game we call life.
+* 🧠  I'm currently learning on improving my JavaScript & Java Skills.
+* 🤝  I'm open to collaborating on Open Source Projects.
+* ⚡  _Grinding to level up in this game we call life_.
 
 ### Skills
 

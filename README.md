@@ -20,3 +20,4 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
     <img src="https://skillicons.dev/icons?i=py,js,java,react,nodejs,express,django,postgres,aws,docker,html,css,bootstrap" />
   </a>
 </p>
+<h2 align="center">Python, JavaScript, Java, ReactJS, NodeJS, ExpressJS, Django, PostgreSQL, AWS, Docker, HTML, CSS, Bootstrap</h2>

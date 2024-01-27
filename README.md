@@ -13,7 +13,7 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.
 
-<h1 align="center">Technologies & Frameworks</h1>
+<h1 align="center">Technical Skills</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">

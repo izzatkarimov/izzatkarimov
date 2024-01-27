@@ -13,7 +13,6 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.
 
-### Skills
 <h1 align="cetner">Skills</h4>
 
 <p align="center">

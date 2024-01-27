@@ -14,7 +14,7 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 * ⚡  _Grinding to level up in this game we call life_.
 
 ### Skills
-<h4 align="cetner">Skills</h4>
+<h1 align="cetner">Skills</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">

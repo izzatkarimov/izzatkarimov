@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7763D&random=false&width=435&lines=Hello+World" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7763D&random=false&width=435&lines=Hello+World" alt="Typing SVG" /></a>
 
 <h2 align="center">I'm Izzat and I'm a Full-Stack Developer</h3>
 

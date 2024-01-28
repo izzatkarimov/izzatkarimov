@@ -7,8 +7,8 @@
 I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majoring in Computer Engineering and I love coding!
 
 * 🌍  I'm based in Warsaw, Poland
-* ✉️  You can contact me at [izzatcodes@gmail.com](mailto:izzatcodes@gmail.com)
-* 🚀  I'm currently working on Side Projects
+* ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
+* 🚀  I'm currently working on a Full Stack Application.
 * 🧠  I'm currently learning how I can become a better developer.
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.

@@ -16,9 +16,9 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,react,nodejs,express,django,postgres,aws,docker,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=py,js,typescript,java,react,nodejs,express,django,postgres,aws,docker,html,css,bootstrap" />
   </a>
 </p>
 
-<h2 align="center">Languages: Python, JavaScript, Java</h2>
+<h2 align="center">Languages: Python, JavaScript, TypeScript, Java</h2>
 <h2 align="center">Frameworks & Other Technologies: ReactJS, NodeJS, ExpressJS, Django, PostgreSQL, AWS, Docker, HTML, CSS, Bootstrap</h2>

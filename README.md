@@ -21,4 +21,4 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 </p>
 
 <h2 align="center">Languages: Python, JavaScript, TypeScript, Java</h2>
-<h2 align="center">Frameworks & Other Technologies: ReactJS, NodeJS, ExpressJS, Django, PostgreSQL, AWS, Docker, HTML, CSS, Bootstrap</h2>
+<h2 align="center">Frameworks & Other Technologies: ReactJS, NodeJS, ExpressJS, Django, MongoDB, PostgreSQL, AWS, Docker, HTML, CSS, Bootstrap</h2>

@@ -5,6 +5,7 @@
 
 <p align="center">
 I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland 🇵🇱
+  <br/>
 I'm a Back-end Developer
 </p>
   

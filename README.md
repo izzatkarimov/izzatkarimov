@@ -5,7 +5,7 @@
 
 - I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland 🇵🇱
 - I'm a Back-end Developer
-
+<br>
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
 * 🚀  I'm currently working on a Full Stack Application.

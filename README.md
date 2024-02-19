@@ -16,7 +16,7 @@ I'm an undergraduate student at Vistula University in Warsaw, Poland. I'm majori
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,django,mongodb,postgres,aws,docker,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,django,postgres, mongodb,aws,docker, tailwind, bootstrap, css, html" />
   </a>
 </p>
 

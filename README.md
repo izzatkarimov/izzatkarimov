@@ -4,8 +4,8 @@
 ------------------------
 
 <p align="center">
-- I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland 🇵🇱
-- I'm a Back-end Developer
+I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland 🇵🇱
+I'm a Back-end Developer
 </p>
   
 * 🌍  I'm based in Warsaw, Poland.

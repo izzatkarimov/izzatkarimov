@@ -23,8 +23,8 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ðŸ‡µðŸ
   </a>
 </p>
 
-<h1 align="center">Languages: Python, JavaScript</h1>
-<h2 align="center">Web Dev Frameworks & Runtimes: ReactJS, ExpressJS (NodeJS Framework), Django</h2>
-<h2 align="center">DBMs: PostreSQL, MongoDB</h2>
-<h2 align="center">Cloud & Deployment: AWS, Docker</h2>
-<h2 align="center">Front-End Techs: Tailwind, Bootstrap, HTML, CSS</h2>
+<h6 align="center">Languages: Python, JavaScript</h6>
+<h6 align="center">Web Dev Frameworks & Runtimes: ReactJS, ExpressJS (NodeJS Framework), Django</h6>
+<h6 align="center">DBMs: PostreSQL, MongoDB</h6>
+<h6 align="center">Cloud & Deployment: AWS, Docker</h6>
+<h6 align="center">Front-End Techs: Tailwind, Bootstrap, HTML, CSS</h6>

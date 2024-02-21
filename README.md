@@ -24,11 +24,11 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ðŸ‡µðŸ
 </p>
 
 
-  - Languages: Python, JavaScript
-  - Web Dev Frameworks & Runtimes: ReactJS, ExpressJS (NodeJS Framework), Django
-  - DBMs: PostreSQL, MongoDB
-  - Cloud & Deployment: AWS, Docker
-  - Front-End Techs: Tailwind, Bootstrap, HTML, CSS
+  - **Languages**: Python, JavaScript
+  - **Web Dev Frameworks & Runtimes**: ReactJS, ExpressJS (NodeJS Framework), Django
+  - **DBMs**: PostreSQL, MongoDB
+  - **Cloud & Deployment**: AWS, Docker
+  - **Front-End Techs**: Tailwind, Bootstrap, HTML, CSS
 
 <h6 align="center">Languages: Python, JavaScript</h6>
 <h6 align="center">Web Dev Frameworks & Runtimes: ReactJS, ExpressJS (NodeJS Framework), Django</h6>

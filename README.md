@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋</h1>
+<h2 align="center">Hello World 👋</h2>
 <h2 align="center">I'm Izzat - Back-end Developer</h2>
 
 ------------------------
@@ -15,7 +15,7 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland 🇵�
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.
 
-<h3 align="center">Technical Skills</h3>
+<h2 align="center">Technical Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">

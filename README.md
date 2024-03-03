@@ -26,7 +26,7 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ðŸ‡µðŸ
 <br>
 
   - **_Languages_**: Python, JavaScript
-  - **_Web Development Frameworks & Runtimes_**: Django
+  - **_Web Development Frameworks_**: Django
   - **_Database Management Systems_**: PostreSQL
   - **_Deployment_**: Docker
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS

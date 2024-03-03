@@ -19,14 +19,14 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ðŸ‡µðŸ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,django,postgres,mongodb,aws,docker,tailwind,bootstrap,css,html" />
+    <img src="https://skillicons.dev/icons?i=py,js,django,postgres,docker,tailwind,bootstrap,css,html" />
   </a>
 </p>
 
 <br>
 
   - **_Languages_**: Python, JavaScript
-  - **_Web Development Frameworks & Runtimes_**: ReactJS, ExpressJS (NodeJS Framework), Django
-  - **_Database Management Systems_**: PostreSQL, MongoDB
-  - **_Cloud & Deployment_**: AWS, Docker
+  - **_Web Development Frameworks & Runtimes_**: Django
+  - **_Database Management Systems_**: PostreSQL
+  - **_Deployment_**: Docker
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS

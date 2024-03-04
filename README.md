@@ -30,4 +30,4 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ðŸ‡µðŸ
   - **_Database Management Systems_**: PostreSQL
   - **_Deployment_**: Docker
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
-  - **Developer Tools_**: Postman, Git, VS Code
+  - **_Developer Tools_**: Postman, Git, VS Code

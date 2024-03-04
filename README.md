@@ -19,7 +19,7 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ğŸ‡µğŸ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,django,postgres,docker,tailwind,bootstrap,css,html,postman" />
+    <img src="https://skillicons.dev/icons?i=py,js,django,postgres,docker,tailwind,bootstrap,css,html,postman,git,vscode" />
   </a>
 </p>
 
@@ -30,3 +30,4 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ğŸ‡µğŸ
   - **_Database Management Systems_**: PostreSQL
   - **_Deployment_**: Docker
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
+  - **Developer Tools_**: Postman, Git, VS Code

@@ -18,7 +18,7 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ğŸ‡µğŸ
 <h2 align="center">Technical Skills</h2>
 
 <p align="center">
-  **_Languages_**:
+   - **_Languages_**:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,spring,django,postgres,docker,tailwind,bootstrap,css,html,postman,git,idea,vscode" />
     <img src="https://skillicons.dev/icons?i=java,py,js,spring,django,postgres,docker,tailwind,bootstrap,css,html,postman,git,idea,vscode" />

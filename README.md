@@ -24,10 +24,6 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ðŸ‡µðŸ
 </p>
 
 <br>
-  - **_Languages_**:   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,spring,django,postgres,docker,tailwind,bootstrap,css,html,postman,git,idea,vscode&perline=8" />
-  </a>
-
 
   - **_Languages_**: Java, Python, JavaScript
   - **_Web Development Frameworks_**: Spring Boot, Django

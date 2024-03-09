@@ -19,7 +19,7 @@ I'm a Computer Engineering Student @ Vistula University in Warsaw, Poland ğŸ‡µğŸ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,springboot,django,postgres,docker,tailwind,bootstrap,css,html,postman,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,spring,django,postgres,docker,tailwind,bootstrap,css,html,postman,git,idea,vscode" />
   </a>
 </p>
 

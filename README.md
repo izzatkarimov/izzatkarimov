@@ -4,7 +4,7 @@
 ------------------------
 
 <p align="center">
-Computer Engineering Student @ Vistula | Backend Engineer | Java, Python
+Computer Engineering Student @ Vistula | Backend Engineer
   <br/>
 </p>
   

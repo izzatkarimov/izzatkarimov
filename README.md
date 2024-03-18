@@ -4,7 +4,7 @@
 ------------------------
 
 <p align="center">
-Backend Engineer Based in Warsaw, Poland 🇵🇱
+Computer Engineering Student @ Vistula | Backend Engineer | Java, Python
   <br/>
 </p>
   

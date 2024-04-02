@@ -25,7 +25,7 @@ Computer Engineering Student @ Vistula | Backend Engineer
 
 <br>
 
-  - **_Languages_**: Java, Python, JavaScript
+  - **_Languages_**: Python, Java
   - **_Web Development Frameworks_**: Spring Boot, Django, FastAPI
   - **_Database Management Systems_**: PostreSQL
   - **_Deployment_**: Docker

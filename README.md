@@ -1,5 +1,5 @@
 <h2 align="center">Hello World 👋</h2>
-<h2 align="center">I'm Izzat - Back-end Developer</h2>
+<h2 align="center">I'm Izzat - Back-End Developer</h2>
 
 ------------------------
 

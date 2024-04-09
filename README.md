@@ -19,7 +19,7 @@ Computer Engineering Student @ Vistula | Backend Engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,django,fastapi,postgres,docker,tailwind,bootstrap,css,html,postman,git,idea,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,django,fastapi,postgres,aws, docker,tailwind,bootstrap,css,html,postman,git,idea,vscode&perline=8" />
   </a>
 </p>
 
@@ -28,6 +28,6 @@ Computer Engineering Student @ Vistula | Backend Engineer
   - **_Languages_**: Python, Java
   - **_Web Development Frameworks_**: Spring Boot, Django, FastAPI
   - **_Database Management Systems_**: PostreSQL
-  - **_Deployment_**: Docker
+  - **_Could & Deployment_**: AWS, Docker
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
   - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code

@@ -6,7 +6,6 @@
   <br/>
 </h3>
 <hr>
-<button>Submit</button>
   
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)

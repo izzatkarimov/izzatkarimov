@@ -1,10 +1,10 @@
 ![github-header-image](https://github.com/izzatkarimov/izzatkarimov/assets/108251704/3fe24189-6838-4ede-a2a4-04219b5624d4)
 
 
-<p align="center" font-size="32px">
+<h2 align="center">
 <b> Computer Engineering Student @ Vistula | Backend Engineer </b>
   <br/>
-</p>
+</h2>
   
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)

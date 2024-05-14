@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Computer Engineering Student @ Vistula | Backend Engineer
+<b> Computer Engineering Student @ Vistula | Backend Engineer </b>
   <br/>
 </p>
   

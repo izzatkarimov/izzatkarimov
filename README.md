@@ -5,7 +5,6 @@
 <b> Computer Engineering Student @ Vistula | Backend Engineer </b>
   <br/>
 </h3>
-<hr>
   
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
@@ -18,7 +17,6 @@
 <h3 align="center">
   <b> Technical Skills </b>
 </h3>
-<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">

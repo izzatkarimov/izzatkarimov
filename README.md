@@ -17,6 +17,7 @@
 <h3 align="center">
   <b> Technical Skills </b>
 </h3>
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">

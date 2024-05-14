@@ -1,10 +1,10 @@
 ![github-header-image](https://github.com/izzatkarimov/izzatkarimov/assets/108251704/3fe24189-6838-4ede-a2a4-04219b5624d4)
 
 
-<h2 align="center">
+<h3 align="center">
 <b> Computer Engineering Student @ Vistula | Backend Engineer </b>
   <br/>
-</h2>
+</h3>
   
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
@@ -13,7 +13,9 @@
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.
 
-<h2 align="center">Technical Skills</h2>
+<h3 align="center">
+  <b> Technical Skills </b>
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">

@@ -1,10 +1,5 @@
-
-
 ![Header](./your-header-image-name.png)
 
-<h2 align="center">I'm Izzat - Back-End Developer</h2>
-
-------------------------
 
 <p align="center">
 Computer Engineering Student @ Vistula | Backend Engineer

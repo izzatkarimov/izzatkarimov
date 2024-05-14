@@ -14,6 +14,7 @@
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.
 
+<hr>
 <h3 align="center">
   <b> Technical Skills </b>
 </h3>

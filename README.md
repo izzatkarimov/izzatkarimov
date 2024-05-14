@@ -5,6 +5,7 @@
 <b> Computer Engineering Student @ Vistula | Backend Engineer </b>
   <br/>
 </h3>
+<hr>
   
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)

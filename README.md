@@ -6,7 +6,7 @@
   <br/>
 </h3>
 
-🌍  I'm based in Warsaw, Poland.
+* 🌍  I'm based in Warsaw, Poland.
   <br>
 ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
   <br>

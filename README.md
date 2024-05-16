@@ -17,7 +17,7 @@
   <br>
 | 🤝  I'm open to collaborating on Open Source Projects. |
   <br>
-| ⚡  _Grinding to level up in this game we call life_. |
+| ⚡  Grinding to level up in this game we call life. |
 </p>
 
 <hr>

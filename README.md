@@ -12,7 +12,7 @@
   <br>
 * 🚀  I'm currently working on a Full Stack Application.
   <br>
-<p align="right">* 🧠  I'm currently learning Full-Stack Development.</p>
+* 🧠  I'm currently learning Full-Stack Development.</p>
   <br>
 * 🤝  I'm open to collaborating on Open Source Projects.
   <br>

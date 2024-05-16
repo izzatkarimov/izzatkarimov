@@ -8,15 +8,15 @@
 
 * 🌍  I'm based in Warsaw, Poland.
   <br>
-✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
+* ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
   <br>
-🚀  I'm currently working on a Full Stack Application.
+* 🚀  I'm currently working on a Full Stack Application.
   <br>
-🧠  I'm currently learning Full-Stack Development.
+* 🧠  I'm currently learning Full-Stack Development.
   <br>
-🤝  I'm open to collaborating on Open Source Projects.
+* 🤝  I'm open to collaborating on Open Source Projects.
   <br>
-⚡  Grinding to level up in this game we call life.
+* ⚡  Grinding to level up in this game we call life.
 
 <hr>
 <h3 align="center">

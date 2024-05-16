@@ -6,7 +6,6 @@
   <br/>
 </h3>
 
-<p align="center">
 🌍  I'm based in Warsaw, Poland.
   <br>
 ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
@@ -18,7 +17,6 @@
 🤝  I'm open to collaborating on Open Source Projects.
   <br>
 ⚡  Grinding to level up in this game we call life.
-</p>
 
 <hr>
 <h3 align="center">

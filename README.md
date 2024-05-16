@@ -18,6 +18,8 @@
   <br>
 * ⚡  Grinding to level up in this game we call life.
 
+<p align="left">I'm based in Warsaw, Poland</p> <p align="right">I'm currently working on a Full Stack Application</p> 
+
 <hr>
 <h3 align="center">
   <b> Technical Skills </b>

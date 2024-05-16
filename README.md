@@ -5,13 +5,15 @@
 <b> Computer Engineering Student @ Vistula | Backend Engineer </b>
   <br/>
 </h3>
-  
+
+<p align="center">
 * 🌍  I'm based in Warsaw, Poland.
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
 * 🚀  I'm currently working on a Full Stack Application.
 * 🧠  I'm currently learning Full-Stack Development.
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  _Grinding to level up in this game we call life_.
+</p>
 
 <hr>
 <h3 align="center">

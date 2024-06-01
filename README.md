@@ -39,14 +39,14 @@
   - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code
 
 ---
-<span align="right">
+<div align="left">
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=izzatkarimov&show_icons=true&theme=ambient_gradient)
 
-</span>
+</div>
 
-<span align="right">
+<div align="right">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzatkarimov&layout=compact)
 
-</span>
+</div>

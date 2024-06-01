@@ -38,4 +38,4 @@
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
   - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=izzatkarimov)](https://github.com/izzatkarimov/github-readme-stats)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=izzatkarimov&show_icons=true&theme=radical)

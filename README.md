@@ -39,6 +39,3 @@
   - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code
 
 ---
-
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=izzatkarimov&show_icons=true&theme=ambient_gradient) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzatkarimov&layout=compact) | | ------------- | ------------- |
-

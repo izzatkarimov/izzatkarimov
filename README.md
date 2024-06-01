@@ -37,3 +37,5 @@
   - **_Could & Deployment_**: AWS, Docker
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
   - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

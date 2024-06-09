@@ -38,4 +38,13 @@
   - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
   - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code
 
+| Skill Category | Technology Name |
+| --- | --- |
+| `Languages` | Python, Java |
+| `Web Development Frameworks` | Spring Boot, Django, FastAPI |
+| `Database Management` | SQL, PostgreSQL |
+| `Cloud & Deployment` | AWS, Docker |
+| `Front-End Technologies` | Tailwind, Bootstrap, HTML & CSS |
+| `Developer Tools` | Postman, Git, IntelliJ IDEA, PyCharm, VS Code |
+
 ---

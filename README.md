@@ -31,12 +31,7 @@
 
 <br>
 
-  - **_Languages_**: Python, Java
-  - **_Web Development Frameworks_**: Spring Boot, Django, FastAPI
-  - **_Database Management Systems_**: PostreSQL
-  - **_Could & Deployment_**: AWS, Docker
-  - **_Front-End Techologies_**: Tailwind, Bootstrap, HTML, CSS
-  - **_Developer Tools_**: Postman, Git, IntelliJ IDEA, VS Code
+----
 
 | Skill Category | Technology Name |
 | --- | --- |

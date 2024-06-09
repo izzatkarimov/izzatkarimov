@@ -34,6 +34,7 @@
 ----
 
 <div align="center">
+  
 | Skill Category | Technology Name |
 | --- | --- |
 | `Languages` | Python, Java |
@@ -42,5 +43,6 @@
 | `Cloud & Deployment` | AWS, Docker |
 | `Front-End Technologies` | Tailwind, Bootstrap, HTML & CSS |
 | `Developer Tools` | Postman, Git, IntelliJ IDEA, PyCharm, VS Code |
+
 </div>
 ---

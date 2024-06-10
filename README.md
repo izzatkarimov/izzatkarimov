@@ -37,7 +37,7 @@
   
 | Skill Category | Technology Name |
 | --- | --- |
-| <span color="$${\color{red}Red}$$">`Languages`</span> | Python, Java |
+| `Languages` | Python, Java |
 | `Web Development Frameworks` | Spring Boot, Django, FastAPI |
 | `Database Management` | SQL, PostgreSQL |
 | `Cloud & Deployment` | AWS, Docker |

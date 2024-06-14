@@ -29,18 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,fastapi"/>
-  </a>
-</p>
-
-
 <br>
 
 <div align="center">

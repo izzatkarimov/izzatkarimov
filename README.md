@@ -31,8 +31,6 @@
 
 <br>
 
-----
-
 <div align="center">
   
 | Skill Category | Technology Name |

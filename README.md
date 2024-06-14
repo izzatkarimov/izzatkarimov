@@ -29,6 +29,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java"/>
+    <img src="https://skillicons.dev/icons?i=spring,django"/>
+    <img src="https://skillicons.dev/icons?i=postgres,aws,docker"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,html"/>
+    <img src="https://skillicons.dev/icons?i=postman,git,idea,vscode"/>
+  </a>
+</p>
+
+
 <br>
 
 <div align="center">

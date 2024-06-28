@@ -43,5 +43,3 @@
 | `Developer Tools` | Postman, Git, IntelliJ IDEA, PyCharm, VS Code |
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=izzatkarimov&color=green)

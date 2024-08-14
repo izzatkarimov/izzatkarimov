@@ -2,7 +2,7 @@
 
 <hr>
 <h3 align="center">
-<b> Computer Engineering Student @ Vistula | Back-end Engineer </b>
+<b> Computer Engineering Student @ Vistula | Back-End Engineer </b>
   <br/>
 </h3>
 

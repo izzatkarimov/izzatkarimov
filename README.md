@@ -1,5 +1,7 @@
 ![github-header-image](https://github.com/izzatkarimov/izzatkarimov/assets/108251704/3fe24189-6838-4ede-a2a4-04219b5624d4)
 
+![github-header-image](https://github.com/user-attachments/assets/5084550d-d8aa-4ffa-8a7e-63a0ba822d7b)
+
 <hr>
 <h3 align="center">
 <b> Computer Engineering Student @ Vistula | Back-End Engineer </b>

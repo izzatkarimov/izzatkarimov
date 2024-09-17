@@ -2,6 +2,8 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/5084550d-d8aa-4ffa-8a7e-63a0ba822d7b)
 
+![github-header-image (1)](https://github.com/user-attachments/assets/7fb263a0-d5d5-4296-8683-fa504957b1d4)
+
 <hr>
 <h3 align="center">
 <b> Computer Engineering Student @ Vistula | Back-End Engineer </b>

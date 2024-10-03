@@ -35,7 +35,7 @@
 | Skill Category | Technology Name |
 | --- | --- |
 | `Languages` | Java, Python, JavaScript |
-| `Web Development Frameworks` | Django, FastAPI, Spring Boot |
+| `Web Development Frameworks` | Spring Boot, Django, FastAPI |
 | `Database Management` | SQL, PostgreSQL |
 | `Cloud & Deployment` | AWS, Docker |
 | `Front-End Technologies` | Tailwind, Bootstrap, HTML & CSS |

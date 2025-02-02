@@ -10,10 +10,6 @@
   <br>
 * ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
   <br>
-* 🚀  I'm currently working on a becoming a better developer.
-  <br>
-* 🧠  I'm currently learning Full-Stack Development.
-  <br>
 * 🤝  I'm open to collaborating on Open Source Projects.
   <br>
 

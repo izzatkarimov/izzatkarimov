@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Warsaw, Poland.
   <br>
-* ✉️  You can contact me at [my email](mailto:izzatcodes@gmail.com)
+* ✉️  You can contact me at [my email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTpDsKZZQkHGdlKtZVdpVmvQcxzgqJmkJtqKnWpjxgZdsQVknlJrRJNJXzGVzLnKxzqXG)
   <br>
 * 🤝  I'm open to collaborating on Open Source Projects.
   <br>

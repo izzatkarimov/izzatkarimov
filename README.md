@@ -1,13 +1,13 @@
 <h3 align="left">
-<b> Computer Engineering Student @ Vistula </b>
+<b> Computer Engineering Student at Vistula University </b>
   <br/>
 </h3>
 
-* 🌍  I'm based in Warsaw, Poland.
+* Based in Warsaw, Poland.
   <br>
-* ✉️  You can contact me at [my email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTpDsKZZQkHGdlKtZVdpVmvQcxzgqJmkJtqKnWpjxgZdsQVknlJrRJNJXzGVzLnKxzqXG)
+* Reach me at [my email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTpDsKZZQkHGdlKtZVdpVmvQcxzgqJmkJtqKnWpjxgZdsQVknlJrRJNJXzGVzLnKxzqXG)
   <br>
-* 🤝  I'm open to collaborating on Open Source Projects.
+* Open to collaborating on Open Source Projects.
   <br>
 
 <h3 align="left">

@@ -1,21 +1,7 @@
-<h3 align="left">
-<b> Computer Engineering Student at Vistula University </b>
-  <br/>
-</h3>
+Hi! I'm Izzat
 
-* Based in Warsaw, Poland
-  <br>
-* Reach me at [my email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTpDsKZZQkHGdlKtZVdpVmvQcxzgqJmkJtqKnWpjxgZdsQVknlJrRJNJXzGVzLnKxzqXG)
-  <br>
-* Open to collaborating on Open Source Projects
-  <br>
+I'm a full-time computer engineering student in Warsaw, Poland.
 
-<h3 align="left">
-  <b> Skills </b>
-</h3>
+I like building stuff, especially with Java, but I'm always happy to work with other technologies as well.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,spring,postgres,aws,docker&perline=9" />
-  </a>
-</p>
+[website](https://izzat-karimov.vercel.app) | [linkedin](https://www.linkedin.com/in/izzat-karimov)

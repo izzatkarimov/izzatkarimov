@@ -3,11 +3,11 @@
   <br/>
 </h3>
 
-* Based in Warsaw, Poland.
+* Based in Warsaw, Poland
   <br>
 * Reach me at [my email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTpDsKZZQkHGdlKtZVdpVmvQcxzgqJmkJtqKnWpjxgZdsQVknlJrRJNJXzGVzLnKxzqXG)
   <br>
-* Open to collaborating on Open Source Projects.
+* Open to collaborating on Open Source Projects
   <br>
 
 <h3 align="left">

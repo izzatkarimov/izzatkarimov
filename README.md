@@ -1,7 +1,6 @@
 Hi! I'm Izzat
 
-I'm a full-time computer engineering student in Warsaw, Poland.
+- Software Engineer with a strong focus on distributed systems and backend infrastructure
+- Computer Engineering at Vistula University
 
-I enjoy building, tinkering, and experimenting with different technologies.
-
-[website](https://izzat-karimov.vercel.app) | [linkedin](https://www.linkedin.com/in/izzat-karimov)
+[website](https://izzat-swe.vercel.app/) | [linkedin](https://www.linkedin.com/in/izzat-karimov)
